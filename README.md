@@ -1,3 +1,10 @@
+# Deprecated Module
+
+**Note: This module is no longer supported.**
+
+This repository/module has been deprecated and is no longer actively maintained or supported. As a result, it may contain outdated information, deprecated functionalities, or potential security vulnerabilities.
+
+
 <p align="center">
 <b> Greenify4Magisk </b><br>
   <img src="http://i.imgur.com/RTIZiTb.png">
